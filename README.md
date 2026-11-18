@@ -76,12 +76,18 @@ You only need these steps the first time. After that, CANprep opens normally.
 Type the name the app should use **(1)** and click **Continue (2)**. It stays on this computer: there is no
 account and no password. You can change it later in Settings.
 
+![First start: type your name, then Continue](docs/2-name.png)
+
 ## 4. Import the content file
 
 Drag your `.canprep` file onto the window, or click **Choose a file…** and pick it. You can drop it anywhere on the
 window.
 
+![Drag the content file onto the drop area, or click Choose a file](docs/3-import.png)
+
 It takes a few seconds. A report lists every question bank that was added; click **Done** and start studying.
+
+![Import finished: a line per question bank, then Done](docs/4-report.png)
 
 Keep the content file somewhere safe: you need it again to set up another computer.
 
