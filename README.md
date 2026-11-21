@@ -151,6 +151,12 @@ and drop the file into the box **(2)**. Your answers, notes, flags and highlight
 
 **App updates:** nothing to do. The app updates itself.
 
+**Updating to version 1.1.0 (the study plan): import the question file once more.** The new study plan uses a map of
+the concepts each question tests, and that map comes in the newest question file
+(`CANprep-content-2026112020.canprep` or later). After the app has updated, drop that file into Settings → Content
+as above. Until you do, the app shows a short reminder on Home and the plan still works, with fewer "second
+questions" on what you met before. Your answers, notes, flags, notebook and plan are kept.
+
 **Moving to another computer:** in CANprep, click **Settings** → **Data** → **Export progress**. This saves one file.
 Set up CANprep on the new computer (Steps 1 to 4), then drop that file onto the CANprep window. Your progress is
 added; nothing is lost.
