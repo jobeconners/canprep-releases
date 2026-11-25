@@ -208,6 +208,6 @@ the concepts each question tests, and that map comes in the newest question file
 as above. Until you do, the app shows a short reminder on Home and the plan still works, with fewer "second
 questions" on what you met before. Your answers, notes, flags, notebook and plan are kept.
 
-**Moving to another computer:** in CANprep, click **Settings** → **Data** → **Export progress**. This saves one file.
+**Moving to another computer:** in CANprep, click **Settings** → **Data** → **Export progress**. This saves one file. **Update CANprep on both computers first:** from versions 1.3 (Windows) and 2.1 (Mac) the progress file holds more, and an older CANprep cannot read all of it.
 Set up CANprep on the new computer (Steps 1 to 4), then drop that file onto the CANprep window. Your progress is
 added; nothing is lost.
