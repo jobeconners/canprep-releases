@@ -184,7 +184,10 @@ and drop the file into the box **(2)**. Your answers, notes, flags and highlight
 
 ![Settings, Content tab: drop the new file into the box](docs/5-update.png)
 
-**App updates:** nothing to do. The app updates itself.
+**App updates:** nothing to do. The app updates itself. When a new version has been downloaded, a small card in the
+corner says **CANprep has been updated**: click **Restart now** and the app reopens exactly where you were, even in
+the middle of a test (your answers and the clock are kept). **Later** is fine too: the new version is then used the
+next time you open the app.
 
 **Macs: CANprep 2 is the Mac app from now on.** On a Mac with macOS 14 or newer, CANprep 1 moves to CANprep 2 by
 itself: after an update, the next time you quit CANprep it replaces itself, and the next time you open it (from the
