@@ -189,6 +189,9 @@ corner says **CANprep has been updated**: click **Restart now** and the app reop
 the middle of a test (your answers and the clock are kept). **Later** is fine too: the new version is then used the
 next time you open the app.
 
+If CANprep says it is older than your progress data and cannot install a newer version by itself, download the
+newest version from this page; your progress stays.
+
 **Macs: CANprep 2 is the Mac app from now on.** On a Mac with macOS 14 or newer, CANprep 1 moves to CANprep 2 by
 itself: after an update, the next time you quit CANprep it replaces itself, and the next time you open it (from the
 Dock, Applications or Spotlight, as always) it is CANprep 2. Your answers, tests, notes, flags, highlights, notebook,
@@ -208,6 +211,6 @@ the concepts each question tests, and that map comes in the newest question file
 as above. Until you do, the app shows a short reminder on Home and the plan still works, with fewer "second
 questions" on what you met before. Your answers, notes, flags, notebook and plan are kept.
 
-**Moving to another computer:** in CANprep, click **Settings** → **Data** → **Export progress**. This saves one file.
+**Moving to another computer:** in CANprep, click **Settings** → **Data** → **Export progress**. This saves one file. **Update CANprep on both computers first:** from versions 1.3 (Windows) and 2.1 (Mac) the progress file holds more, and an older CANprep cannot read all of it.
 Set up CANprep on the new computer (Steps 1 to 4), then drop that file onto the CANprep window. Your progress is
 added; nothing is lost.
