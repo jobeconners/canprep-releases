@@ -185,9 +185,9 @@ and drop the file into the box **(2)**. Your answers, notes, flags and highlight
 ![Settings, Content tab: drop the new file into the box](docs/5-update.png)
 
 **App updates:** nothing to do. The app updates itself. When a new version has been downloaded, a small card in the
-corner says **CANprep has been updated**: click **Restart now** and the app reopens exactly where you were, even in
-the middle of a test (your answers and the clock are kept). **Later** is fine too: the new version is then used the
-next time you open the app.
+corner says **CANprep has been updated** (while you are taking a test it waits, and it appears once the test is
+finished or left): click **Restart now** and the app reopens exactly where you were. **Later** is fine too: the new
+version is then used the next time you open the app.
 
 If CANprep says it is older than your progress data and cannot install a newer version by itself, download the
 newest version from this page; your progress stays.
