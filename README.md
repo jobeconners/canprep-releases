@@ -193,9 +193,10 @@ If CANprep says it is older than your progress data and cannot install a newer v
 newest version from this page; your progress stays.
 
 **Mac, version 2.2: choose the look of the app.** CANprep 2 for Mac can now be shown in 22 styles besides the
-original one. Each style changes the colours and the type, and how every page is laid out. Choose one in
-**Settings** → **General** → **Style**. **Classic** is the original look and stays the default. Nothing else
-changes, and there is nothing to import. The test screens keep their exam look in every style.
+original one. Each style changes the colours, the type, the logo and how every page is laid out. Choose one in
+**Settings** → **Style**, where you can flip through large previews and also add a texture (grain, paper or a
+grid) to any style. **Classic** is the original look and stays the default. Nothing else changes, and there is
+nothing to import. The test screens keep their exam look in every style.
 
 **Macs: CANprep 2 is the Mac app from now on.** On a Mac with macOS 14 or newer, CANprep 1 moves to CANprep 2 by
 itself: after an update, the next time you quit CANprep it replaces itself, and the next time you open it (from the
